@@ -4,6 +4,7 @@ All credit to the original authours.
 Credit for reverse enginering the image format and displaying custom png images goes to Johan Ribom
 
 Usage:
+
 1. Place the images you want to animate in the git repo. 
 2. Run python importmany.py
 3. Change the frame amount in mipslab.h
